@@ -1,5 +1,5 @@
 /*This is the demo commit 1*/
-/*This is the demo commit 2*/
+/*This is the demo commit 2a*/
 /*This is the demo commit 3*/
 /*This is the demo commit 4*/
 package org.anish.hackerearth.mastglobal
@@ -11,7 +11,8 @@ import org.apache.spark.{SparkConf, sql}
 import org.joda.time.format.DateTimeFormat
 
 /**
-  * Class to process data to get findings
+  * Class to process data to get findings:wq
+ *
   *
   * Created by anish on 24/01/17.
   */
